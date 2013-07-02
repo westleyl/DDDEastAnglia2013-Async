@@ -13,5 +13,5 @@ I have included the .Net 4.0 version of the source code that uses the Microsoft.
 
 * Load Project into Visual Studio 2012
 * Access the NuGet package manager (Tools -> Library Package Manager -> Manage NuGet Packages For Solution)
-* higlight Online and then Search Online for microsoft.bcl.async
+* Highlight Online and then Search Online for microsoft.bcl.async
 * Click on Install button
